@@ -2,8 +2,8 @@
 
 [![@vydyas's Holopin board](https://holopin.me/vydyas)](https://holopin.io/@vydyas)
 
-- 🔭 I’m currently working on [Digital Experience](https://github.com/user/repo/blob/branch/other_file.md) at **Salesforce**
-- 🌱 I’m currently learning **NextJS**, **TailwindCSS**
+- 🔭 I’m currently working on [Digital Experiences](https://github.com/user/repo/blob/branch/other_file.md) at **Salesforce**
+- 🌱 I’m currently learning **NextJS**, **TailwindCSS** (Personal Front)
 - 👯 I’m looking to collaborate on Web3 Projects
 - 📫 How to reach me: vydyas@gmail.com
 - 😄 Hobby: Photography
