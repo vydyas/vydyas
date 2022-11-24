@@ -16,5 +16,5 @@
 graph LR
 A[TCS] -- 2 YEARS --> B[EZE Software]
 B -- 2 YEARS--> C(PEGA)
-C -- 1YEAR --> D(SALESFORCE) -- PRESENT -->E{?} 
+C -- 1 YEAR --> D(SALESFORCE) -- PRESENT -->E{?} 
 ```
