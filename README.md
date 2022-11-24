@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I'm married to a lovely girl(Kiran Pani) from Odisha, India. I'm father of twins(👦🏻(Viswa), 👧🏻(Sita))
 
 
-** Work Experience Timeline:**
+**Work Experience Timeline:**
 
 ```mermaid
 graph LR
