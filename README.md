@@ -8,3 +8,14 @@
 - 📫 How to reach me: vydyas@gmail.com
 - 😄 Hobby: Photography
 - ⚡ Fun fact: I'm married to a lovely girl(Kiran Pani) from Odisha, India. I'm father of twins(👦🏻(Viswa), 👧🏻(Sita))
+
+
+
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
