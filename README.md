@@ -10,9 +10,11 @@
 - ⚡ Fun fact: I'm married to a lovely girl(Kiran Pani) from Odisha, India. I'm father of twins(👦🏻(Viswa), 👧🏻(Sita))
 
 
-**Work Experience**
+** Work Experience Timeline:**
 
 ```mermaid
 graph LR
-A[TCS] -- After 2 years --> c[EZE Software] -- After 2 years --> d[PEGA Systems] -- After 1 year --> E[SALESFORCE]
+A[TCS] -- 2 YEARS --> B[EZE Software]
+B -- 2 YEARS--> C(PEGA)
+C -- 1YEAR --> D(SALESFORCE) -- PRESENT -->E{?} 
 ```
