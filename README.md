@@ -10,12 +10,9 @@
 - ⚡ Fun fact: I'm married to a lovely girl(Kiran Pani) from Odisha, India. I'm father of twins(👦🏻(Viswa), 👧🏻(Sita))
 
 
-
+# Work Experiemce
 
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+A[TCS] -- After 2 years  --> b[mojoreads.com] --  After 6 months --> c[EZE Software] -- After 2 years --> d[PEGA Systems] -- After 1 year --> E[SALESFORCE]
 ```
